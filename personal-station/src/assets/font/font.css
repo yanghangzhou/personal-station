@@ -1,0 +1,13 @@
+@font-face{
+  font-family: 'firstfont';
+  src: url("./ldqfont.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face{
+  font-family: 'lmyfont';
+  src: url("./lmy.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
